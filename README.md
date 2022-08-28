@@ -1,4 +1,4 @@
-Dependencies
+Dependencies-لازم تحمل هاذي الاشياء
 
 https://github.com/Project-Sloth/ps-ui
 
