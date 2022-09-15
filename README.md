@@ -1,8 +1,5 @@
 Updated 1.5
 
-![Picsart_22-09-13_09-25-49-518 (1)](https://user-images.githubusercontent.com/100775763/190414348-5b3a9632-a91e-45bd-8683-c65fa639ca51.jpg)
-
-
 Dependencies - لازم تحمل هاذي الاشياء
 
 https://github.com/Project-Sloth/ps-ui
@@ -23,3 +20,6 @@ item
 Preview
 
 https://streamable.com/ihwfbi
+
+Updated
+![Picsart_22-09-13_09-25-49-518 (1)](https://user-images.githubusercontent.com/100775763/190414348-5b3a9632-a91e-45bd-8683-c65fa639ca51.jpg)
