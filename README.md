@@ -1,4 +1,4 @@
-https://youtu.be/ggaxir_jcwQUpdated 1.5
+Updated 1.5
 
 OLD-قبل
 ![unkknown](https://user-images.githubusercontent.com/100775763/190415400-1bdce540-03b1-4eb1-b816-2ebdf9b7a844.png)
@@ -24,6 +24,7 @@ qb-files\resources\[qb]\qb-core\shared\items
 
 ['bombdefuse'] 				 	 = {['name'] = 'bombdefuse', 			  	  	['label'] = 'bombdefuse', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'bombdefuse.png', 			['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = ''},
 	['screwdriverset'] 				 = {['name'] = 'screwdriverset', 			    ['label'] = 'Toolkit', 					['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'screwdriverset.png', 		['unique'] = false, 	['useable'] = false, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Very useful to screw... screws...'},
+	
 ![screwdriverset](https://user-images.githubusercontent.com/100775763/190440295-b9e80a63-6873-4104-b69b-610e2aaa6ff5.png)
 ![bombdefuse](https://user-images.githubusercontent.com/100775763/190440351-653d79d9-f453-4a33-adc6-b85a5bab0e86.png)
 
