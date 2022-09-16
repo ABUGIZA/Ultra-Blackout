@@ -34,6 +34,10 @@ Preview
 
 https://youtu.be/ggaxir_jcwQ
 
+Discord
+
+https://discord.gg/Rwk2SMxZMy
+
 Updated 1.5
 
 ![qq](https://user-images.githubusercontent.com/100775763/190416789-4382f94c-0ed1-49e9-90a5-68adc5a50fe7.png)
