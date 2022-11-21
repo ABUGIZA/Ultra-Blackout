@@ -36,7 +36,7 @@ https://youtu.be/ggaxir_jcwQ
 
 Discord
 
-https://discord.gg/Rwk2SMxZMy
+https://discord.gg/w7ytVvAJqj
 
 Updated 1.5
 
